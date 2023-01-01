@@ -1,0 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+pub   ed25519/0x7C8B27C554E01A6E
+      Key fingerprint = 2F96 0344 0263 9F5A B97E  B4F0 7C8B 27C5 54E0 1A6E
+uid                   anketell <smashin_conundrums@aleeas.com>
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSA1hajacnD2aFQlVnW5KIzJEROlwUCY7H6pwAKCRDW5KIzJERO
+l4TSAQCPBtT37s1XxNnkzCgD+NxiQg6POLHpGmHQIlTWxJBeKwD/T1VnfSuCBHMY
+wuNw6Ai8L1GgW7l4HrmZ66TbH9ITmws=
+=cmAn
+-----END PGP SIGNATURE-----

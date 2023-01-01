@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Anketell</title>
   <subtitle></subtitle>
-  <updated>2022-11-26T23:59:04+00:00</updated>
+  <updated>2023-01-01T22:21:31+00:00</updated>
   <author>
     <name>anketell</name>
     <uri>/</uri>
@@ -13,7 +13,7 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
-  <rights> © 2022 anketell </rights>
+  <rights> © 2023 anketell </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
